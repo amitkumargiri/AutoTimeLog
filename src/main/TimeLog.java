@@ -136,6 +136,7 @@ class Timer extends Thread {
         e.printStackTrace();
       }
       System.out.println("Time Log Application Running...");
+	  flag = false;
     }
   }
 
